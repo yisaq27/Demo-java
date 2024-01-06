@@ -34,7 +34,7 @@ public class Library {
         }
         System.out.println();
         System.out.println();
-        System.out.println("The Library has these types of book: ");
+        System.out.println("The Library has these types of book:  ");
         System.out.println();
         System.out.println("BookId\t\tTitle\tAuthorId  AuthorName\tBio\t\t\tGenre\t  Avialable\tTotal");
         for (Book book : bookList) {

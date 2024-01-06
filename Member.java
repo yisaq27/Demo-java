@@ -17,7 +17,7 @@ public class Member {
         return memberName;
     }
     public void getBorrowedBooks() {
-        System.out.println("BookId\tTitle\t\tGenre");
+        System.out.println("BookId\tTitle\t\tGenre" );
        for (Book book : borrowedBooks) {
         System.out.println(book.getBookId()+"\t" +book.getTitle()+"\t" +book.getGenre());
        }

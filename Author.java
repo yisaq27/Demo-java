@@ -9,7 +9,7 @@ public class Author {
     }
 
     public void setAuthorId(int authorId) {
-        this.authorId = authorId;
+        this.authorId = authorId ;
     }
 
     public int getAuthorId() {

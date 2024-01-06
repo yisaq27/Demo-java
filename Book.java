@@ -44,7 +44,7 @@ public String getGenre() {
     return genre;
 }
 public Author getAuthor() {
-    return author;
+    return author ;
 }
 
 public String displayBookDetails(){
